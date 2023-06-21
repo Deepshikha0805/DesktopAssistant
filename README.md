@@ -1,5 +1,5 @@
 # DesktopAssistant_PythonProject
-This Python script demonstrates a basic voice assistant named "Warner." It utilizes various libraries and APIs to perform tasks based on voice commands. Here's a shorter description:
+This Python script demonstrates a basic voice assistant named "Warner." It utilizes various libraries and APIs to perform tasks based on voice commands. 
 
 The script initializes a voice recognition system using the SpeechRecognition library and converts voice input into text. It also uses pyttsx3 for text-to-speech functionality.
 
